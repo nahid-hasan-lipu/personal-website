@@ -1,0 +1,89 @@
+.font-family1{
+    font-family: 'Tajawal', sans-serif;
+}
+.font-family2{
+    font-weight: 900;
+}
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: palevioletred;
+    font-size: 14px;
+}
+.color-pink{
+    color: palevioletred;
+}
+.link-style{
+    text-decoration: none;
+    color: white;
+    background-color: palevioletred;
+    padding: 5px 20px;
+    border-radius: 5%;
+    font-size: 14px;
+}
+.first-section{
+    width: 40%;
+    float: left;
+}
+.img-size{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.section-measurment1{
+    height: 500px;
+    margin-left: 15%;
+}
+.section-measurment2{
+    height: 700px;
+}
+.second-section{
+    width: 40%;
+    float: left;
+    padding: 0% 5%; 
+}
+.top-padding{
+    padding-top: 5%;
+}
+.work-image img{
+    width: 28%;
+    padding: 0% 2%;
+    float: left;
+}
+.work-image{
+    padding-left: 6%;
+}
+.section-measurment3{
+    height: 400px;
+}    
+.color-black{
+    color: black;
+}
+.alignment{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: navy;
+    font-size: 12px;
+}
+.section-measurment4{
+    height: 300px;
+}
+.bg-color{
+    background-color: palevioletred;
+    padding: 3px;
+}
+.bg-col{
+    background-color: white;
+    padding: 0% 35%;
+}
